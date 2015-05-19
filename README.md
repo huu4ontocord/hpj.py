@@ -1,15 +1,18 @@
  hpj.py
+ 
  Simple Python to Javascript translator with an emphasis on readability of generated code.
  This code is based on Niall McCarroll's py2js code. It is a very
  basic python to javascript intereprter, with an emphasis on
  readability of javascript code.
 
  Usage: python hpj.py <file.py>
+ 
  generates: hyj.js and file.js
 
  The MIT License
 
  Copyright (c) 2008 - 2009 Niall McCarroll
+ 
  Copyright (c) 2013 - 2014 Hiep Huu Nguyen
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
